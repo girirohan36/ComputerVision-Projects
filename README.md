@@ -1,2 +1,3 @@
 # Python_ComputerVision
-all the cv codes.
+
+Starting from implementing all the codes in python for cv to codes.This repo contains all the codes.
